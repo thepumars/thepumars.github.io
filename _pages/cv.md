@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-PDF CV DOWNLOAD HERE http://github.com/files/cv.pdf
+PDF CV DOWNLOAD HERE [https://thepumars.github.io/files/cv.pdf](https://thepumars.github.io/files/cv.pdf)
 
 
 Education
