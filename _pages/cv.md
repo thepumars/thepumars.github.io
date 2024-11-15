@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+PDF CV DOWNLOAD HERE http://github.com/files/cv.pdf
+
+
 Education
 ======
 * Bachelor of Detection Guidance and Control Technology,Harbin Engineering University, Harbin, China, Expected Gradu-ation: July 2025
@@ -44,6 +47,7 @@ Skills
 C, C++, Python, MATLAB
 * Software andTools
 Linux, ROS, LaTeX, Gazebo, LcEDA, Keil
+
 
 <!-- Publications
 ======
