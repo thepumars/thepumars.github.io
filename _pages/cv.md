@@ -30,6 +30,7 @@ lege, Harbin Engineering University, China, Harbin,China, De-
 veloped a buoy gateway device with self-propulsion and self-
 localization capabilities for air-sea cross-domain communication
 *written the software for the underlying motion control system.*
+
 **September 2024 - Present**
 Underwater Optical Visual Guidance, Yuchao Wang’s group,
 409 institute, Harbin Engineering University, China, Engaged in
