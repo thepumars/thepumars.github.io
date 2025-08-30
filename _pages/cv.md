@@ -1,12 +1,12 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
 
+---
+permalink: /
+title: "This marsop's official website."
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 {% include base_path %}
 
 you can get my resume here [https://thepumars.github.io/files/cv.pdf](https://thepumars.github.io/files/cv.pdf)
