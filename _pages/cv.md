@@ -9,45 +9,40 @@ redirect_from:
 
 {% include base_path %}
 
-PDF CV DOWNLOAD HERE [https://thepumars.github.io/files/cv.pdf](https://thepumars.github.io/files/cv.pdf)
+you can get my resume here [https://thepumars.github.io/files/cv.pdf](https://thepumars.github.io/files/cv.pdf)
 
 
 Education
 ======
-* Bachelor of Detection Guidance and Control Technology,Harbin Engineering University, Harbin, China, Expected Gradu-ation: July 2025
-* Ph.D Candidate in Control science and engineering, Harbin Engineering University, Harbin, China, Expected Qulification: Sept 2025
+* Bachelor of Detection Guidance and Control Technology,Harbin Engineering University, Harbin, China, 2021-2025
+* PhD Candidate in Control science and engineering, Harbin Engineering University, Harbin, China, 2025 till now
 
 Publications
 ======
-Still Struggling to publish papers.
+Making progress...
 
-Research experience
+Research Interests
 ======
-**Oct 2022 - September 2023**
-Cross-Domain Autonomous Self-Localization Gateway,
-Zhigang Shang’s group, Underwater Acoustics Engineering col-
-lege, Harbin Engineering University, China, Harbin,China, De-
-veloped a buoy gateway device with self-propulsion and self-
-localization capabilities for air-sea cross-domain communication
-*written the software for the underlying motion control system.*
+UUV&AUV|USV motion control
+
+Research experience 
+======
 
 **September 2024 - Present**
-Underwater Optical Visual Guidance, Yuchao Wang’s group,
-409 institute, Harbin Engineering University, China, Engaged in
-research focused on developing advanced optical guidance sys-
-tems for underwater applications., Developing an optical pose
+Underwater Optical Visual Guidance Task, Yuchao Wang’s group,
+409 institute of Harbin Engineering University, China.
+Engaging in research focused on developing advanced optical guidance sys-
+tems for underwater applications. Developing an optical pose
 estimation and guidance system reliant on cooperative targets to
-achieve docking tasks. This system provides state information
-to the control system, enhancing the accuracy and efficiency of
-underwater vehicle operations during docking procedures.
-*Emphasized the importance of perspective distortion correction*
+achieve docking tasks. 
+
   
 Skills
 ======
 * Programming Languages
 C, C++, Python, MATLAB
-* Software andTools
-Linux, ROS, LaTeX, Gazebo, LcEDA, Keil
+* Software and Tools
+Linux, ROS, LaTeX, Gazebo, Keil
 
 
 <!-- Publications
