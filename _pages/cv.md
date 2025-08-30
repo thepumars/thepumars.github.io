@@ -1,21 +1,20 @@
-
 ---
 permalink: /
-title: "This marsop's official website."
+title: "marsop"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-{% include base_path %}
-
+This is marsop's official website.
+======
 you can get my resume here [https://thepumars.github.io/files/cv.pdf](https://thepumars.github.io/files/cv.pdf)
 
 
 Education
 ======
-* Bachelor of Detection Guidance and Control Technology,Harbin Engineering University, Harbin, China, 2021-2025
-* PhD Candidate in Control science and engineering, Harbin Engineering University, Harbin, China, 2025 till now
+* Bachelor of Detection Guidance and Control Technology, Harbin Engineering University, Harbin, China, 2021-2025
+* PhD Candidate in Control science and engineering, Harbin Engineering University, Harbin, China, 2025 Till Now
 
 Publications
 ======
@@ -28,7 +27,8 @@ UUV&AUV|USV motion control
 Research experience 
 ======
 
-**September 2024 - Present**
+**September 2024 - July 2025**
+
 Underwater Optical Visual Guidance Task, Yuchao Wang’s group,
 409 institute of Harbin Engineering University, China.
 Engaging in research focused on developing advanced optical guidance sys-
@@ -36,6 +36,10 @@ tems for underwater applications. Developing an optical pose
 estimation and guidance system reliant on cooperative targets to
 achieve docking tasks. 
 
+ **Recently**
+ 
+ Working...
+ 
   
 Skills
 ======
